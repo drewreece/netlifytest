@@ -1,11 +1,11 @@
-#backend:
-#  name: github
-#  repo: drewreece/netlifytest
-#  branch: master
-#  site_domain: https://sharp-curran-57faae.netlify.com
-#  media_folder: "images/"
-#  public_folder: "_site/images"
-#
+backend:
+  name: github
+  repo: drewreece/netlifytest
+  branch: master
+  site_domain: https://sharp-curran-57faae.netlify.com
+  media_folder: "images/"
+  public_folder: "_site/images"
+
 #collections:
 #  - name: "post" # Used in routes, e.g. /admin/collections/blog
 #    label: "Post" # Used in the UI
