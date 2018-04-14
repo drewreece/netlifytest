@@ -2,9 +2,9 @@ backend:
   name: github
   repo: drewreece/netlifytest
   branch: master
-  site_domain: https://sharp-curran-57faae.netlify.com
-  media_folder: "images/uploads"
-  public_folder: "_site"
+  site_domain: "https://sharp-curran-57faae.netlify.com"
+media_folder: "images/uploads"
+public_folder: "_site"
 
 #collections:
 #  - name: "post" # Used in routes, e.g. /admin/collections/blog
