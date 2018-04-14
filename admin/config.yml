@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   repo: drewreece/netlifytest
   branch: master
-site_domain: https://sharp-curran-57faae.netlify.com
-media_folder: "images/"
+  site_domain: "https://sharp-curran-57faae.netlify.com"
+media_folder: "images"
 public_folder: "_site/images"
 
 collections:
@@ -16,5 +16,3 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-
