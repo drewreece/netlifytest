@@ -1,7 +1,7 @@
 backend:
-  name: github
-repo: drewreece/netlifytest
-branch: master
+  name: git-gateway
+  repo: drewreece/netlifytest
+  branch: master
 site_domain: https://sharp-curran-57faae.netlify.com
 media_folder: "images/"
 public_folder: "_site/images"
